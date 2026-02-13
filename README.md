@@ -29,15 +29,6 @@ I'm interested in autonomous systems, deep learning, and tools that push the bou
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natgurlain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natgurlain&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/natgurlain.com-a78bfa?style=flat&logo=googlechrome&logoColor=white)](https://natgurlain.com)
